@@ -1,0 +1,5 @@
+{
+  "name": "Trim Media Equipment Booker",
+  "description": "An application to organize, book, and administrate the loan of equipment for Trim Media. It features a booking calendar, customizable equipment lists, and AI-powered reminders for overdue items.",
+  "requestFramePermissions": []
+}
